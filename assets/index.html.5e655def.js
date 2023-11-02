@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-cd248026","path":"/tags/esm/","title":"esm | Tags","lang":"zh","frontmatter":{"title":"esm | Tags","layout":"Tags","blog":{"type":"category","name":"esm","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
