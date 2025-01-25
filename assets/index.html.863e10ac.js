@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-aca236d6","path":"/tags/hello-world/","title":"hello world | Tags","lang":"zh","frontmatter":{"title":"hello world | Tags","layout":"Tags","blog":{"type":"category","name":"hello world","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};

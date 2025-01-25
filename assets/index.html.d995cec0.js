@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6fef66bd","path":"/tags/monorepo/","title":"monorepo | Tags","lang":"zh","frontmatter":{"title":"monorepo | Tags","layout":"Tags","blog":{"type":"category","name":"monorepo","key":"tag"}},"excerpt":"","headers":[],"git":{},"filePathRelative":null}');export{e as data};
